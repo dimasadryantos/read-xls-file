@@ -9,7 +9,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Iterator;
 
-public class ReaderXlsFile {
+public class ReaderXlsxFile {
 
 
     public static void main(String[] args) {
